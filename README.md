@@ -5,6 +5,9 @@ My name is Johnny See and I am a self-taught Full-Stack Developer who love to co
 * ⚛️ React
 * 💻 JavaScript / HTML5 / CSS3
 
+## Examples of Work
+<img src="" width="256" />
+
 - 🔭 I’m currently working on becoming a better React Developer 
 - 📫 How to reach me: js.johnny.see@gmail.com 
 
