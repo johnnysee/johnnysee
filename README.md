@@ -2,7 +2,9 @@
 #### Self-taught Developer
 My name is Johnny See and I am a self-taught Full-Stack Developer. I have a huge interest in JavaScript and frameworks like React. I aim to always become a better developer by improving my knowledge within tech in my free time.
 
-Skills: REACT / JS / HTML / CSS
+## Skills and Experince
+* ⚛️ React
+* 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on becoming a better React Developer 
 - 📫 How to reach me: js.johnny.see@gmail.com 
