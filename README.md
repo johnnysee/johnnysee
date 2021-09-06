@@ -8,7 +8,7 @@ I love to code!
 ## Skills and Experience
 * ⚛️ React
 * 💻 JavaScript / HTML5 / CSS3
-* Ruby
+* 💎 Ruby
 
 ## Examples of Work
 <img src="" width="240" />
