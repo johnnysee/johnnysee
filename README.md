@@ -1,9 +1,14 @@
 # Johnny See
-My name is Johnny See and I am a self-taught Full-Stack Developer who love to code. I have a huge interest in JavaScript and frameworks like React.
+My name is Johnny See. I am attending Craft Academy's Full Stack Web Developer Bootcamp with expected graduation Nov 20, 2021.
+
+I am open for opportunities by the end of this year. Looking forward to connect with you!
+
+I love to code!
 
 ## Skills and Experience
 * ⚛️ React
 * 💻 JavaScript / HTML5 / CSS3
+* Ruby
 
 ## Examples of Work
 <img src="" width="240" />
