@@ -1,5 +1,6 @@
 # Johnny See
-My name is Johnny See from Gothenburg, Sweden. I am attending Craft Academy's Full Stack Web Developer Bootcamp with expected graduation Nov 20, 2021.
+My name is Johnny See from Gothenburg, Sweden. 
+I am attending Craft Academy's Full Stack Web Developer Bootcamp with expected graduation Nov 20, 2021.
 
 I am open for opportunities by the end of this year. Looking forward to connect with you!
 
