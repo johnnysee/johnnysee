@@ -7,8 +7,6 @@ Before I discovered how interesting and exciting programming can be, I have been
 
 In my free time I enjoy to code, spend time with family and play padel.
 
-Looking forward to connect and have a chat!
-
 ## Skills
 • JavaScript HTML and CSS <br />
 • React for Front End Development <br />
@@ -25,5 +23,5 @@ Looking forward to connect and have a chat!
 
 <br />
 
-[<img src='https://img.icons8.com/color/48/000000/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnny-see/)  [<img src='https://img.icons8.com/fluency/96/000000/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/jsee2)  
+Looking forward to connect and have a chat!
 
