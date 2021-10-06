@@ -3,22 +3,7 @@ Full Stack Web Developer who love to code in React and build complex web applica
 
 Latest project was a Slow Food App where customer can add food to a cart, but in order to checkout the customer needs to sign in and get an authorization via APIs from the backend server.
 
-Skills:
-
-• JavaScript HTML and CSS
-• React for Front End Development
-• Ruby on Rails and Node for Back End Development
-• PostgreSQL for Back End Database Management
-• React Native for building mobile versions of applications
-• Test Driven Development using Cypress and RSpec
-• Git and GitHub for Version Control
-• Continuous Integration with Semaphore
-• Continuous Deployment with Heroku and Netlify
-• Team and Pair Programming
-• Agile Methodology
-• Scrum
-
-Github: https://github.com/johnnysee
+Github: https://www.linkedin.com/in/johnny-see/
 
 Before I discovered how interesting and exciting programming can be, I have been working as a Wiring Diagram Designer within the Automotive Industry in Gothenburg for 3.5 years. I have a BSc in Mechanical Engineering from Linköping University.
 
