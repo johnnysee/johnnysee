@@ -10,17 +10,17 @@ In my free time I enjoy to code, spend time with family and play padel.
 Looking forward to connect and have a chat!
 
 ## Skills
-• JavaScript HTML and CSS. <br />
-• React for Front End Development
-• Ruby on Rails and Node for Back End Development
-• PostgreSQL for Back End Database Management
-• React Native for building mobile versions of applications
-• Test Driven Development using Cypress and RSpec
-• Git and GitHub for Version Control
-• Continuous Integration with Semaphore
-• Continuous Deployment with Heroku and Netlify
-• Team and Pair Programming
-• Agile Methodology
+• JavaScript HTML and CSS <br />
+• React for Front End Development <br />
+• Ruby on Rails and Node for Back End Development <br />
+• PostgreSQL for Back End Database Management <br />
+• React Native for building mobile versions of applications <br />
+• Test Driven Development using Cypress and RSpec <br />
+• Git and GitHub for Version Control <br />
+• Continuous Integration with Semaphore <br />
+• Continuous Deployment with Heroku and Netlify <br />
+• Team and Pair Programming <br />
+• Agile Methodology <br />
 • Scrum
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnny-see/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jsee2)  
