@@ -10,7 +10,7 @@ In my free time I enjoy to code, spend time with family and play padel.
 Looking forward to connect and have a chat!
 
 ## Skills
-• JavaScript HTML and CSS. 
+• JavaScript HTML and CSS. <br />
 • React for Front End Development
 • Ruby on Rails and Node for Back End Development
 • PostgreSQL for Back End Database Management
