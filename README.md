@@ -9,12 +9,10 @@ In my free time I enjoy to code, spend time with family and play padel.
 
 Looking forward to connect and have a chat!
 
-Linkedin: https://www.linkedin.com/in/johnny-see/
-
 ## Skills and Experience
 * ⚛️ React
 * 💻 JavaScript / HTML5 / CSS3
 * 💎 Ruby
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/johnnysee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnny-see/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jsee2)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/johnny-see/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jsee2)  
 
