@@ -3,7 +3,7 @@ Full Stack Web Developer who love to code in React and build complex web applica
 
 Latest project was a Slow Food App where customer can add food to a cart, but in order to checkout the customer needs to sign in and get an authorization via APIs from the backend server.
 
-Continuous Deployment with Netlify (FE): https://too-gross-for-comfort-johnnysee.netlify.app/
+Continuous Deployment with Netlify (FE): https://too-gross-for-comfort-johnnysee.netlify.app/ <br />
 Continuous Deployment with Heroku (BE): https://desolate-beach-43985.herokuapp.com
 
 Before I discovered how interesting and exciting programming can be, I have been working as a Wiring Diagram Designer within the Automotive Industry in Gothenburg for 3.5 years. I have a BSc in Mechanical Engineering from Linköping University.
