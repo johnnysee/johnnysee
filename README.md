@@ -5,20 +5,6 @@ Before I discovered how interesting and exciting programming can be, I have been
 
 In my free time I enjoy to code, spend time with family and play padel.
 
-## Skills
-• JavaScript HTML and CSS <br />
-• React for Front End Development <br />
-• Ruby on Rails and Node for Back End Development <br />
-• PostgreSQL for Back End Database Management <br />
-• React Native for building mobile versions of applications <br />
-• Test Driven Development using Cypress and RSpec <br />
-• Git and GitHub for Version Control <br />
-• Continuous Integration with Semaphore <br />
-• Continuous Deployment with Heroku and Netlify <br />
-• Team and Pair Programming <br />
-• Agile Methodology <br />
-• Scrum
-
 <br />
 
 Looking forward to connect and have a chat!
