@@ -1,6 +1,3 @@
-# Johnny See
-Full Stack Web Developer who love to code in React and build complex web applications using modern technologies.
+Full Stack Developer who love to code in React and build complex web applications using modern technologies.
 
-React with TypeScript, CSS (Tailwind/Styled components) and .NET.
-
-In my free time I enjoy to code, spend time with family and play padel.
+I enjoy to code, learn new things, play padel and spend time with my family.
